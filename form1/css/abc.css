@@ -1,0 +1,16 @@
+div {
+    background:blue;
+    border:1px solid #777;
+    padding:5px;
+}
+
+.srikar {
+    background:#fff;
+    overflow:auto;
+}
+
+.sri1 {float:left;}
+.sri2 {float:right;}
+
+/* Just cosmetic stuff */
+

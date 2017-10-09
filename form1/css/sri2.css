@@ -1,0 +1,66 @@
+form{
+	border:1px solid balck;
+	padding:30px;
+	margin:20px;
+	
+}
+.srikar{
+	width:100%;
+	}
+.s1 input[type="text"]{
+	padding:10px;
+	width:60%;
+}
+.s2 input[type="text"]{
+	padding:10px;
+	width:60%;
+}
+.s3 input[type="text"]{
+	padding:10px;
+width:60%;
+}
+.s4 input[type="text"]{
+padding:10px;
+width:60%;
+}
+	
+.sri1
+{
+	width:50%;
+	float:left;
+	padding:20px,20px,20px,20px;
+	display:inline;
+}
+.sri2{
+	width:50%;
+	float:right;
+	background-image:url(fall-autumn-red-season.jpg) ;
+	padding:20px,20px,20px,20px;
+	height:400px;
+}
+.sri3 input[type="button"]{
+	background-color:green;
+	padding:10px;
+	width:60%;
+}
+h1{
+	color:white;
+}
+.sri4 input[type="button"]{
+background-color:grey;
+color:white;
+padding:10px;
+	width:60%;
+}	
+.sri5 input[type="button"]{
+background-color:blue;
+color:white;
+padding:10px;
+	width:60%;
+}	
+.sri6 input[type="button"]{
+background-color:red;
+color:white;
+padding:10px;
+	width:60%;
+}	

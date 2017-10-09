@@ -1,0 +1,27 @@
+.srikar{
+	background-color:lavender;
+	width:450px;
+	margin-left:150px;
+	border:1px solid black;
+}
+.sri1{
+	background-color:blue;
+	width:150px;
+	float:left;
+	margin-top:10px;
+}
+.sri2 {
+	background-color:red;
+	width:150px;
+	float:left;
+	margin-left:150px;
+	margin-top:10px;
+}
+.sri3{
+	background-color:green;
+	width:150px;
+	float:left;
+	margin-left:144px;
+	margin-top:10px;
+}
+	

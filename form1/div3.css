@@ -1,0 +1,16 @@
+.srikar{
+	width:500px;
+	border:1px solid black;
+	background-color:lavender;
+	height:300px;
+}
+.sri1{
+	width:150px;
+	background-color:green;
+    float:left;
+}
+.sri2{
+	width:150px;
+	background-color:red;
+	float:left;
+}
